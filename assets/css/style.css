@@ -409,6 +409,11 @@ section {
   color: #ffffff;
 }
 
+.about .content h5 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #4f667d;
+}
 
 
 .about .content ul {
